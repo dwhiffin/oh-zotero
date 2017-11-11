@@ -36,7 +36,7 @@
     <terms>
       <term name="editor" form="verb-short">ed.</term>
       <term name="translator" form="verb-short">trans.</term>
-	  <term name="reviewed-author" form="verb-short"></term>
+			<term name="reviewed-author" form="verb-short"></term>
     </terms>
   </locale>
   <macro name="editor-translator">
@@ -766,7 +766,7 @@
         <else>
           <group delimiter=", ">
             <text macro="contributors-note"/>
-			<text macro="reviewed" prefix=" Review of "/>
+			<text macro="reviewed" prefix=" review of "/>
             <text macro="title-note"/>
             <text macro="description-note"/>
             <text macro="secondary-contributors-note"/>
@@ -778,7 +778,11 @@
           <text macro="issue-note"/>
           <text macro="locators-newspaper" prefix=", "/>
           <text macro="point-locators"/>
-          <text macro="access-note" prefix=", "/>
+					<choose>
+						<if type="book" match="none">
+							<text macro="access-note" prefix=", "/>
+						</if>
+					</choose>
         </else>
       </choose>
     </layout>
@@ -804,7 +808,11 @@
       <text macro="issue"/>
       <text macro="locators-newspaper" prefix=", "/>
       <text macro="locators-journal"/>
-      <text macro="access" prefix=". "/>
+			<choose>
+				<if type="book" match="none">
+					<text macro="access" prefix=". "/>
+				</if>
+			</choose>
     </layout>
   </bibliography>
 </style>
