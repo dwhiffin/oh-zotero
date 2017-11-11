@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US" page-range-format="chicago">
   <info>
-    <title>SoBL2(full note) - DRW OH</title>
-    <id>OH-DRW</id>
+    <title>SoBL2(full note) OH</title>
+    <id>OH-SBL2</id>
     <link href="http://www.zotero.org/styles/society-of-biblical-literature-fullnote-bibliography" rel="self"/>
     <link href="http://www.zotero.org/styles/chicago-fullnote-bibliography" rel="template"/>
     <link href="http://www.sbl-site.org/publications/SBLHandbookofStyle.aspx" rel="documentation"/>
@@ -21,10 +21,13 @@
     <contributor>
       <name>Sebastian Karcher</name>
     </contributor>
+		<contributor>
+      <name>Daniel Whiffin</name>
+    </contributor>
     <category citation-format="note"/>
     <category field="theology"/>
-    <summary>Society of Biblical Literature format with full notes and bibliography - OH edit DRW</summary>
-    <updated>2016-07-05T13:46:46+00:00</updated>
+    <summary>Oak Hill College based on Society of Biblical Literature 2</summary>
+    <updated>2017-11-11T20:41:46+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en-US">
