@@ -7,11 +7,11 @@ Before starting, you will need to have [git installed](https://git-scm.com/downl
 ### Procedure for working on the stylesheet
 1. If you don't have one, create yourself a GitHub account.
 1. Fork this repository using the button in the top right corner. This will add the repository to your GitHub account.
-1. Sync with git on your computer.
+1. Pull to git on your computer.
 1. Make your edit (if it's a complex edit then create a branch so it can be worked on collaboratively apart from the master branch).
 1. Test your edit.
 1. Commit your edit. Please use a helpful commit title which will mean something to others. If your edit fixes an issue listed in the GitHub repository, please reference it in your commit using e.g. `#4` to reference Issue 4.
-1. Sync with GitHub.
+1. Push to GitHub.
 1. On GitHub, create a Pull Request on the main repository requesting that your edit be pulled in.
 1. Your edit will be considered by other members and if accepted it will be merged into the main repository by an admin. Or, suggestions for improvements might be made to be completely before merging.
 
