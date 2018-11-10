@@ -1,0 +1,773 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="#item_1242">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Nashville, TN</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Abingdon</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sweeney</foaf:surname>
+                        <foaf:givenname>Marvin A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2005</dc:date>
+        <dc:title>The Prophetic Literature</dc:title>
+        <z:shortTitle>Prophetic Literature</z:shortTitle>
+    </bib:Book>
+    <bib:Article rdf:about="#item_1243">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:number>35</prism:number><dc:title>VT</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seitz</foaf:surname>
+                        <foaf:givenname>Christopher R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>78-97</bib:pages>
+        <dc:date>1985</dc:date>
+        <dc:title>The Crisis of Interpretation Over the Meaning of Exile</dc:title>
+        <z:shortTitle>The Crisis of Interpretation</z:shortTitle>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_1244">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>I Am the Lord Your God: Christian Reflections on the Ten Commandments</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hart</foaf:surname>
+                        <foaf:givenname>David Bentley</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Braaten</foaf:surname>
+                        <foaf:givenname>Carl E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seitz</foaf:surname>
+                        <foaf:givenname>Christopher R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>55-76</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:title>God or Nothingness</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_1245">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>JSOTSup</dc:title><dc:identifier>368</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Sheffield Academic Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kamionkowski</foaf:surname>
+                        <foaf:givenname>S. Tamar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2003</dc:date>
+        <dc:title>Gender Reversal and Cosmic Chaos: A Study on the Book of Ezekiel</dc:title>
+        <z:shortTitle>Gender Reversal</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1246">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>WBC</dc:title><dc:identifier>1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Dallas, TX</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Word</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wenham</foaf:surname>
+                        <foaf:givenname>Gordon J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1987</dc:date>
+        <dc:title>Genesis 1–15</dc:title>
+    </bib:Book>
+    <rdf:Description rdf:about="#item_1248">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <prism:volume>4</prism:volume><dc:title>NIDOTTE</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Carlisle</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Paternoster</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verhoef</foaf:surname>
+                        <foaf:givenname>Pieter A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1067-78</bib:pages>
+        <dc:date>1997</dc:date>
+        <z:numberOfVolumes>5</z:numberOfVolumes>
+        <dc:title>Prophecy</dc:title>
+    </rdf:Description>
+    <bib:BookSection rdf:about="#item_1249">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>New Bible Commentary: 21st Century Edition</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leicester</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IVP</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Williamson</foaf:surname>
+                        <foaf:givenname>Hugh G. M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carson</foaf:surname>
+                        <foaf:givenname>Don A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>France</foaf:surname>
+                        <foaf:givenname>R. T. (Dick)</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Motyer</foaf:surname>
+                        <foaf:givenname>J. Alec</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wenham</foaf:surname>
+                        <foaf:givenname>Gordon J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>420-441</bib:pages>
+        <dc:date>1994</dc:date>
+        <dc:title>Ezra and Nehemiah</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_1250">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>NIBC</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Carlisle</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Paternoster</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>Leslie C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laniak</foaf:surname>
+                        <foaf:givenname>Timothy S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2003</dc:date>
+        <dc:title>Ezra, Nehemiah, Esther</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_1251">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>The Church of England Newspaper</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wynne-Jones</foaf:surname>
+                        <foaf:givenname>Jonathan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>2-6</bib:pages>
+        <dc:date>20/05/2005</dc:date>
+        <dc:title>Church Establishes Helpline for Elderly</dc:title>
+        <z:shortTitle>Church Establishes Helpline</z:shortTitle>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-0-664-22090-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Westminster John Knox</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Provan</foaf:surname>
+                        <foaf:givenname>I. W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Long</foaf:surname>
+                        <foaf:givenname>V. Philips</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Longman III</foaf:surname>
+                        <foaf:givenname>Tremper</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.co.uk/books?id=dmI4eW8qvOYC</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-0-664-22090-7</dc:identifier>
+        <dc:date>2003</dc:date>
+        <dc:title>A Biblical History of Israel</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1254">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids, MI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calvin</foaf:surname>
+                        <foaf:givenname>John</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Myers</foaf:surname>
+                        <foaf:givenname>Thomas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <prism:edition>repr.</prism:edition>
+        <dc:title>Commentaries on the First Twenty Chapters of the Book of the Prophet Ezekiel</dc:title>
+        <z:shortTitle>Ezekiel</z:shortTitle>
+    </bib:Book>
+    <bib:Article rdf:about="#item_1255">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>110</prism:volume><dc:title>JBL</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Block</foaf:surname>
+                        <foaf:givenname>Daniel I.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:reviewedAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davis</foaf:surname>
+                        <foaf:givenname>Ellen F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:reviewedAuthors>
+        <bib:pages>144-46</bib:pages>
+        <dc:date>1991</dc:date>
+        <dc:title>Swallowing the Scroll</dc:title>
+        <z:shortTitle>review of Davis</z:shortTitle>
+    </bib:Article>
+    <bib:Book rdf:about="#item_1256">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Louisville, KY</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Westminster John Knox</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blenkinsopp</foaf:surname>
+                        <foaf:givenname>Joseph</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>rev. and enl. ed.</prism:edition>
+        <dc:date>1996</dc:date>
+        <dc:title>A History of Prophecy in Israel</dc:title>
+        <z:shortTitle>History of Prophecy</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1257">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>SCM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eichrodt</foaf:surname>
+                        <foaf:givenname>Walther</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenname>J. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:date>1961-67</dc:date>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <dc:title>Theology of the Old Testament</dc:title>
+        <z:shortTitle>Theology</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1259">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>vol 2 of &lt;i&gt;A History of Israelite Religion in the Old Testament Period&lt;/i&gt;</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>SCM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Albertz</foaf:surname>
+                        <foaf:givenname>Rainer</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bowden</foaf:surname>
+                        <foaf:givenname>John</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:date>1994</dc:date>
+        <dc:title>From the Exile to the Maccabees</dc:title>
+        <z:shortTitle>From the Exile</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1260">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Hermeneia</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Philadelphia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Fortress</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wolff</foaf:surname>
+                        <foaf:givenname>Hans W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stansell</foaf:surname>
+                        <foaf:givenname>Gary</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:date>1974</dc:date>
+        <dc:title>A Commentary on the Book of the Prophet Hosea</dc:title>
+        <z:shortTitle>Hosea</z:shortTitle>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.theologian.org.uk/doctrine/punished.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Williams</foaf:surname>
+                        <foaf:givenname>Garry J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.theologian.org.uk/doctrine/punished.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:title>Punished in Our Place: a Reply to Steve Chalke on Penal Substitution</dc:title>
+        <z:shortTitle>Punished</z:shortTitle>
+    </bib:Document>
+    <bib:Article rdf:about="http://www.see-j.net/hiphil">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>3</prism:volume><dc:title>Hiphil</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Block</foaf:surname>
+                        <foaf:givenname>Daniel I.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.see-j.net/hiphil</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-24</bib:pages>
+        <dc:date>2006</dc:date>
+        <dc:title>Preaching Old Testament Law to New Testament Christians</dc:title>
+        <z:shortTitle>Preaching Old Testament Law</z:shortTitle>
+    </bib:Article>
+    <bib:Book rdf:about="#item_1263">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Zondervan</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallace</foaf:surname>
+                        <foaf:givenname>Daniel B</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1996</dc:date>
+        <dc:description>OCLC: 477206195</dc:description>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <z:language>English</z:language>
+        <dc:title>Greek grammar beyond the basics: an exegetical syntax of the New Testament with Scripture, subject, and Greek word indexes</dc:title>
+        <z:shortTitle>Greek grammar beyond the basics</z:shortTitle>
+    </bib:Book>
+    <bib:Thesis rdf:about="#item_1264">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Brunel University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wenk</foaf:surname>
+                        <foaf:givenname>Matthias</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1998</dc:date>
+        <z:type>Ph.D. diss.</z:type>
+        <dc:title>The Holy Spirit and the Ethical / Religious Life of the People of God in Luke–Acts</dc:title>
+        <z:shortTitle>Holy Spirit</z:shortTitle>
+    </bib:Thesis>
+    <bib:Book rdf:about="#item_1265">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>OTS</dc:title><dc:identifier>45</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leiden</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Brill</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Moor</foaf:surname>
+                        <foaf:givenname>Johannes C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:date>2001</dc:date>
+        <dc:title>The Elusive Prophet: The Prophet as a Historical Person, Literary Character &amp; Anonymous Artist</dc:title>
+        <z:shortTitle>The Elusive Prophet</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1266">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Grand Rapids</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Eerdmans</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Braaten</foaf:surname>
+                        <foaf:givenname>Carl E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seitz</foaf:surname>
+                        <foaf:givenname>Christopher R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:date>2005</dc:date>
+        <dc:title>I Am the Lord Your God: Christian Reflections on the Ten Commandments</dc:title>
+        <z:shortTitle>I am the Lord your God</z:shortTitle>
+    </bib:Book>
+    <bib:Document rdf:about="http://oakhill2.ablette.net/blog/entry/ keeping_calm_and_carrying_on/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Strange</foaf:surname>
+                        <foaf:givenname>Dan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://oakhill2.ablette.net/blog/entry/ keeping_calm_and_carrying_on/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:title>Keeping Clam and Carrying on</dc:title>
+    </bib:Document>
+    <bib:Recording rdf:about="http://downloads.bbc.co.uk/podcasts/ radio4/belief/belief_20120312-1700a.mp3">
+        <z:itemType>podcast</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dcterms:alternative>BBC Radio 4, Beyond Belief, 12 March 2012</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <z:podcasters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rea</foaf:surname>
+                        <foaf:givenname>Ernie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:podcasters>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://downloads.bbc.co.uk/podcasts/ radio4/belief/belief_20120312-1700a.mp3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:title>Atheism &lt;i&gt;[podcast]&lt;/i&gt;</dc:title>
+    </bib:Recording>
+</rdf:RDF>
